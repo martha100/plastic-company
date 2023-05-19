@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829306892725",
+    "firebase_url": "https://plasticcompany-b0994-default-rtdb.firebaseio.com",
+    "project_id": "plasticcompany-b0994",
+    "storage_bucket": "plasticcompany-b0994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829306892725:android:c87266fff5a7ac8883e9fc",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829306892725-lli2npuilkeagp3cdl3v4hkcohbgpika.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4bBifnJ-v31VAuVPX5kWxE_syKnjLIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829306892725-lli2npuilkeagp3cdl3v4hkcohbgpika.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
